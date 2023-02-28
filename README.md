@@ -1,2 +1,2 @@
-# curriculum
-argentina programa mi cv
+# micv
+Repositorio destinado al proyecto de seProgramar
